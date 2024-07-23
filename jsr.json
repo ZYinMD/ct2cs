@@ -1,0 +1,5 @@
+{
+  "name": "@zyinmd/ct2cs",
+  "version": "1.0.0",
+  "exports": "./ct2cs.ts"
+}
