@@ -1,6 +1,8 @@
 ## ct2cs
 
-Convert Traditional Chinese into Simplified Chinese
+Convert Traditional Chinese into Simplified Chinese.
+
+Lightweight & minimalistic.
 
 ```js
 import { ct2cs } from "jsr:@zyinmd/ct2cs";
