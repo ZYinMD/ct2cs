@@ -1,4 +1,4 @@
-import { map } from "./map.ts";
+import { map } from "../dist/map.ts";
 
 /**
  * Convert a string from traditional Chinese to simplified Chinese. Non-chinese characters will remain unchanged. Chinese characters that are the same in traditional and simplified Chinese will remain unchanged.

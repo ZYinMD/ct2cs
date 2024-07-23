@@ -1,5 +1,5 @@
 import { assertEquals } from "jsr:@std/assert";
-import { ct2cs } from "./ct2cs.ts";
+import { ct2cs } from "../dist/ct2cs.ts";
 
 Deno.test("empty string", () => {
   assertEquals(ct2cs(""), "");
