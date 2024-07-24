@@ -1,4 +1,4 @@
-// this map was taken from https://github.com/ccckmit/chinese_convert/blob/master/tw2cn.js
+// this map was mostly taken from https://github.com/ccckmit/chinese_convert/blob/master/tw2cn.js, except I added 後 -> 后
 export const map: Record<string, string> = {
   萬: "万",
   與: "与",
@@ -3028,4 +3028,5 @@ export const map: Record<string, string> = {
   龔: "龚",
   龕: "龛",
   龜: "龟",
+  後: "后",
 };
