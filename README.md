@@ -1,8 +1,6 @@
 ## ct2cs
 
-Convert Traditional Chinese into Simplified Chinese.
-
-Lightweight & minimalistic.
+Lightweight & minimalistic function to convert traditional Chinese into simplified Chinese.
 
 ```js
 import { ct2cs } from "jsr:@zyinmd/ct2cs";
@@ -10,7 +8,7 @@ import { ct2cs } from "jsr:@zyinmd/ct2cs";
 console.log(cs2cs("從前")); // 从前
 ```
 
-Non-Traditional-Chinese characters will remain unchanged:
+All characters that aren't traditional Chinese will remain unchanged:
 
 ```js
 const input = "從前有1座山🏔️, 山裡有1個廟🏯。";
