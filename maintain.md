@@ -1,4 +1,4 @@
-This repo tries to use the least tooling possible. Everything is done manually.
+This repo tries to use the least tooling possible. All chores are done manually.
 
 To test: manually type `deno test ./test/test.ts`
 
