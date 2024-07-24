@@ -1,6 +1,6 @@
 {
   "name": "@zyinmd/ct2cs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "exports": "./dist/ct2cs.ts",
   "publish": {
     "include": ["README.md", "dist"]
