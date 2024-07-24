@@ -9,7 +9,7 @@ export function ct2cs(input: string): string {
   if (typeof input !== "string") return input;
   const output = input
     .split("")
-    .map((c) => map[c] || c)
+    .map((i) => map[i] || i)
     .join("");
   return output;
 }
