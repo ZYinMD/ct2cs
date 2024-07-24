@@ -5,7 +5,7 @@ Lightweight & minimalistic function to convert traditional Chinese into simplifi
 ```js
 import { ct2cs } from "jsr:@zyinmd/ct2cs";
 
-console.log(cs2cs("從前")); // 从前
+console.log(ct2cs("從前")); // 从前
 ```
 
 All characters that aren't traditional Chinese will remain unchanged:
